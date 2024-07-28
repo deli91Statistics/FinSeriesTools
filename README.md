@@ -1,0 +1,1 @@
+This package contains some useful function to manipulate financial time series. In particular, it offers tools to convert price to returns, aggregate returns for different frequencies, etc..
